@@ -4,4 +4,4 @@ I followed the instructions described [here](https://deepnote.com/@siew-sook-yan
 
 The final product is a shapefile with 10 columns, each representing the yield of sugarcane and soybean from a period of 10 years.
 
-<img src="https://github.com/neli12/screenshots-figures/blob/main/Capture.PNG" width="700" />
+<img src="https://github.com/neli12/screenshots-figures/blob/main/Capture.PNG?raw=true" width="700" />
