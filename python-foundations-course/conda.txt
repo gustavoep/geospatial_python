@@ -1,0 +1,5 @@
+conda create --name python_foundation
+conda activate python_foundation
+conda install --channel conda-forge geopandas -y
+python -c "import geopandas"
+conda install --channel conda-forge geopy rasterio matplotlib jupyterlab -y
